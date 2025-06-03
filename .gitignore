@@ -1,3 +1,6 @@
+# ignore messy files
+*_m*
+
 # Miscellaneous
 *.class
 *.lock
